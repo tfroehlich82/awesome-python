@@ -302,11 +302,8 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 
 *Libraries for downloading.*
 
-* [coursera](https://github.com/coursera-dl/coursera) - Script for downloading Coursera.org videos and naming them.
 * [s3cmd](https://github.com/s3tools/s3cmd) - A command line tool for managing Amazon S3 and CloudFront.
 * [s4cmd](https://github.com/bloomreach/s4cmd) - Super S3 command line tool, good for higher performance.
-* [subliminal](https://github.com/Diaoul/subliminal) - Library and command line tool to search and download subtitles.
-* [WikiTeam](https://github.com/WikiTeam/wikiteam) - Tools for downloading and preserving wikis.
 * [you-get](http://www.soimort.org/you-get/) - A YouTube/Youku/Niconico video downloader written in Python 3.
 * [youtube-dl](http://rg3.github.io/youtube-dl/) - A small command-line program to download videos from YouTube.
 
@@ -450,12 +447,9 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
     * [awesome-flask](https://github.com/humiaozuzu/awesome-flask)
 * [Pyramid](http://www.pylonsproject.org/) - A small, fast, down-to-earth, open source Python web framework.
     * [awesome-pyramid](https://github.com/ITCase/awesome-pyramid)
-* [Bluebream](http://bluebream.zope.org/) - An open-source web application server, framework and library, formerly known as Zope 3.
 * [Bottle](http://bottlepy.org/) - A fast, simple and lightweight WSGI micro web-framework.
-* [CherryPy](http://www.cherrypy.org/) - A Minimalist Python Web Framework, HTTP/1.1-compliant and WSGI thread-pooled.
-* [Grok](http://grok.zope.org/) - A framework built on the existing Zope 3 libraries.
-* [guava](https://github.com/flatpeach/guava) - A lightweight and high performance web framework for Python written in C.
-* [TurboGears](http://www.turbogears.org/) - The Web Framework that starts as a microframework and scales up to a full stack solution.
+* [CherryPy](http://www.cherrypy.org/) - A minimalist Python web framework, HTTP/1.1-compliant and WSGI thread-pooled.
+* [TurboGears](http://www.turbogears.org/) - A microframework that can scale up to a full stack solution.
 * [web.py](http://webpy.org/) - A web framework for Python that is as simple as it is powerful.
 * [web2py](http://www.web2py.com) - A full stack web framework and platform focused in the ease of use.
 
@@ -901,7 +895,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
     * [pysonar2](https://github.com/yinwang0/pysonar2) - A type inferencer and indexer for Python.
 * Linter
     * [Flake8](https://pypi.python.org/pypi/flake8) - The modular source code checker: pep8, pyflakes and co.
-    * [Pylint](http://www.pylint.org/) - A source code analyzer.
+    * [Pylint](http://www.pylint.org/) - A Fully customizable source code analyzer.
     * [pylama](https://pylama.readthedocs.org/) - Code audit tool for Python and JavaScript.
 
 ## Debugging Tools
@@ -933,7 +927,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 * [bcbio-nextgen](https://github.com/chapmanb/bcbio-nextgen) - A toolkit providing best-practice pipelines for fully automated high throughput sequencing analysis.
 * [bccb](https://github.com/chapmanb/bcbb) - Collection of useful code related to biological analysis.
 * [Biopython](http://biopython.org/wiki/Main_Page) - Biopython is a set of freely available tools for biological computation.
-* [blaze](http://blaze.pydata.org/en/latest/) - NumPy and Pandas interface to Big Data.
+* [blaze](http://blaze.readthedocs.org/en/latest/index.html) - NumPy and Pandas interface to Big Data.
 * [cclib](http://cclib.github.io/) - A library for parsing and interpreting the results of computational chemistry packages.
 * [NetworkX](https://networkx.github.io/) - A high-productivity software for complex networks.
 * [Neupy](http://neupy.com/pages/home.html) - Running and testing different Artificial Neural Networks algorithms.
