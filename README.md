@@ -152,7 +152,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 
 *Interactive Python interpreters (REPL).*
 
-* [IPython](https://github.com/ipython/ipython) - A rich toolkit to help you make the most out of using Python interactively.
+* [Jupyter Notebook (IPython)](https://jupyter.org) -  A rich toolkit to help you make the most out of using Python interactively.
 * [bpython](http://bpython-interpreter.org) – A fancy interface to the Python interpreter.
 * [ptpython](https://github.com/jonathanslenders/ptpython) - Advanced Python REPL built on top of the [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit).
 
@@ -982,6 +982,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 * [python-recsys](https://github.com/ocelma/python-recsys) - A Python library for implementing a Recommender System.
 * [scikit-learn](http://scikit-learn.org/) - A Python module for machine learning built on top of SciPy.
 * [vowpal_porpoise](https://github.com/josephreisinger/vowpal_porpoise) - A lightweight Python wrapper for [Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit/).
+* [skflow](https://github.com/google/skflow) - A simplified interface for TensorFlow mimicking scikit-learn
 
 ## MapReduce
 
