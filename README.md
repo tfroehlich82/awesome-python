@@ -254,7 +254,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 
 *Libraries for generating project documentation.*
 
-* [Sphinx](http://sphinx-doc.org/) - Python Documentation generator.
+* [Sphinx](http://www.sphinx-doc.org/en/latest/) - Python Documentation generator.
     * [awesome-sphinxdoc](https://github.com/yoloseem/awesome-sphinxdoc)
 * [MkDocs](http://www.mkdocs.org/) - Markdown friendly documentation generator.
 * [pdoc](https://github.com/BurntSushi/pdoc) - Epydoc replacement to auto generate API documentation for Python libraries.
@@ -295,7 +295,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
     * [percol](https://github.com/mooz/percol) - Adds flavor of interactive selection to the traditional pipe concept on UNIX.
     * [SAWS](https://github.com/donnemartin/saws) - A Supercharged AWS CLI.
     * [thefuck](https://github.com/nvbn/thefuck) - Correcting your previous console command.
-    * [mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.    
+    * [mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 
 ## Downloader
 
@@ -335,8 +335,8 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 *Libraries for manipulating audio.*
 
 * [audiolazy](https://github.com/danilobellini/audiolazy) - Expressive Digital Signal Processing (DSP) package for Python.
-* [audioread](https://github.com/sampsyo/audioread) - Cross-library (GStreamer + Core Audio + MAD + FFmpeg) audio decoding.
-* [beets](http://beets.radbox.org/) - A music library manager and [MusicBrainz](https://musicbrainz.org/) tagger.
+* [audioread](https://github.com/beetbox/audioread) - Cross-library (GStreamer + Core Audio + MAD + FFmpeg) audio decoding.
+* [beets](http://beets.io/) - A music library manager and [MusicBrainz](https://musicbrainz.org/) tagger.
 * [dejavu](https://github.com/worldveil/dejavu) - Audio fingerprinting and recognition.
 * [django-elastic-transcoder](https://github.com/StreetVoice/django-elastic-transcoder) - Django + [Amazon Elastic Transcoder](http://aws.amazon.com/elastictranscoder/).
 * [eyeD3](http://eyed3.nicfit.net/) - A tool for working with audio files, specifically MP3 files containing ID3 metadata.
@@ -615,7 +615,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 
 *Libraries for working with i18n.*
 
-* [Babel](http://babel.pocoo.org/) - An internationalization library for Python.
+* [Babel](http://babel.pocoo.org/en/latest/) - An internationalization library for Python.
 * [Korean](https://korean.readthedocs.org/en/latest/) - A library for [Korean](https://en.wikipedia.org/wiki/Korean_language) morphology.
 
 ## URL Manipulation
@@ -807,7 +807,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 
 * [curses](https://docs.python.org/2/library/curses.html#module-curses) - Built-in wrapper for [ncurses](http://www.gnu.org/software/ncurses/) used to create terminal GUI applications.
 * [enaml](https://github.com/nucleic/enaml) - Creating beautiful user-interfaces with Declaratic Syntax like QML.
-* [kivy](http://kivy.org/) - A library for creating NUI applications, running on Windows, Linux, Mac OS X, Android and iOS.
+* [kivy](https://kivy.org/) - A library for creating NUI applications, running on Windows, Linux, Mac OS X, Android and iOS.
 * [pyglet](https://bitbucket.org/pyglet/pyglet/wiki/Home) - A cross-platform windowing and multimedia library for Python.
 * [PyQt](https://riverbankcomputing.com/software/pyqt/intro) - Python bindings for the [Qt](http://www.qt.io/) cross-platform application and UI framework, with support for both Qt v4 and Qt v5 frameworks.
 * [PySide](https://wiki.qt.io/PySide) - Python bindings for the [Qt](http://www.qt.io/) cross-platform application and UI framework, supporting the Qt v4 framework.
@@ -980,7 +980,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 * [scikit-learn](http://scikit-learn.org/) - A Python module for machine learning built on top of SciPy.
 * [pydeep](https://github.com/andersbll/deeppy)-Deep learning in python
 * [vowpal_porpoise](https://github.com/josephreisinger/vowpal_porpoise) - A lightweight Python wrapper for [Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit/).
-* [skflow](https://github.com/google/skflow) - A simplified interface for [TensorFlow](https://github.com/tensorflow/tensorflow) mimicking scikit-learn
+* [skflow](https://github.com/tensorflow/skflow) - A simplified interface for [TensorFlow](https://github.com/tensorflow/tensorflow) (mimicking scikit-learn).
 
 ## MapReduce
 
@@ -1065,7 +1065,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 * [PeachPy](https://github.com/Maratyszcza/PeachPy) - x86-64 assembler embedded in Python. Can be used as inline assembler for Python or as a stand-alone assembler for Windows, Linux, OS X, Native Client and Go.
 * [PyPy](http://pypy.org/) - An implementation of Python in Python. The interpreter uses black magic to make Python very fast without having to add in additional type information.
 * [Pyston](https://github.com/dropbox/pyston) - A Python implementation built using LLVM and modern JIT techniques with the goal of achieving good performance.
-* [Stackless Python](http://www.stackless.com/) - An enhanced version of the Python.
+* [Stackless Python](https://bitbucket.org/stackless-dev/stackless/overview) - An enhanced version of the Python.
 
 ## Microsoft Windows
 
@@ -1162,7 +1162,6 @@ Online tools and APIs to simplify development.
 
 ## Code Quality
 
-* [Landscape](https://landscape.io/) - An early warning system for your Python codebase.
 * [QuantifiedCode](https://www.quantifiedcode.com/) - A data-driven, automated, continuous code review tool.
 
 # Resources
