@@ -152,7 +152,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 *Interactive Python interpreters (REPL).*
 
 * [Jupyter Notebook (IPython)](https://jupyter.org) -  A rich toolkit to help you make the most out of using Python interactively.
-* [bpython](http://bpython-interpreter.org) – A fancy interface to the Python interpreter.
+* [bpython](https://github.com/bpython/bpython) – A fancy interface to the Python interpreter.
 * [ptpython](https://github.com/jonathanslenders/ptpython) - Advanced Python REPL built on top of the [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit).
 
 ## Files
@@ -244,11 +244,12 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 *Libraries for working with human languages.*
 
 * [NLTK](http://www.nltk.org/) - A leading platform for building Python programs to work with human language data.
-* [jieba](https://github.com/fxsjy/jieba) - Chinese Words Segmentation Utilities.
+* [Jieba](https://github.com/fxsjy/jieba) - Chinese text segmentation.
 * [langid.py](https://github.com/saffsd/langid.py) - Stand-alone language identification system.
 * [Pattern](http://www.clips.ua.ac.be/pattern) - A web mining module for the Python.
 * [SnowNLP](https://github.com/isnowfy/snownlp) - A library for processing Chinese text.
 * [TextBlob](http://textblob.readthedocs.org/en/latest/) - Providing a consistent API for diving into common NLP tasks.
+* [TextGrocery](https://github.com/2shou/TextGrocery) - A simple, efficient short-text classification tool based on LibLinear and Jieba.
 
 ## Documentation
 
@@ -481,7 +482,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 *Frameworks and libraries for e-commerce and payments.*
 
 * [django-oscar](http://oscarcommerce.com/) - An open-source e-commerce framework for Django.
-* [django-shop](https://github.com/divio/django-shop) - A Django based shop system.
+* [django-shop](https://github.com/awesto/django-shop) - A Django based shop system.
 * [Cartridge](https://github.com/stephenmcd/cartridge) - A shopping cart app built using the Mezzanine.
 * [shoop](https://www.shoop.io/en/) - An open source E-Commerce platform based on Django.
 * [alipay](https://github.com/lxneng/alipay) - Unofficial Alipay API for Python.
@@ -1093,7 +1094,7 @@ A curated list of awesome Python frameworks, libraries and software. Inspired by
 * [ino](http://inotool.org/) - Command line toolkit for working with [Arduino](https://www.arduino.cc/).
 * [Pyro](http://pyrorobotics.com/) - Python Robotics.
 * [PyUserInput](https://github.com/SavinaRoja/PyUserInput) - A module for cross-platform control of the mouse and keyboard.
-* [scapy](http://www.secdev.org/projects/scapy/) - A brilliant packet manipulation library.
+* [scapy](https://github.com/secdev/scapy) - A brilliant packet manipulation library.
 * [wifi](https://wifi.readthedocs.org/en/latest/) - A Python library and command line tool for working with WiFi on Linux.
 * [Pingo](http://www.pingo.io/) - Pingo provides a uniform API to program devices like the Raspberry Pi, pcDuino, Intel Galileo, etc.
 
