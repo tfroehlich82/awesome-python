@@ -300,6 +300,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     * [percol](https://github.com/mooz/percol) - Adds flavor of interactive selection to the traditional pipe concept on UNIX.
     * [SAWS](https://github.com/donnemartin/saws) - A Supercharged AWS CLI.
     * [thefuck](https://github.com/nvbn/thefuck) - Correcting your previous console command.
+    * [try](https://github.com/timofurrer/try) - A dead simple CLI to try out python packages - It's never been easier.
     * [mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
     * [pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting.
 
@@ -512,6 +513,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     * [cornice](https://cornice.readthedocs.org/en/latest/) - A REST framework for Pyramid.
 * Framework agnostic
     * [falcon](http://falconframework.org/) - A high-performance framework for building cloud APIs and web app backends.
+    * [hug](https://github.com/timothycrosley/hug) - A Python3 framework for cleanly exposing APIs over HTTP and the Command Line with automatic documentation and validation.
     * [sandman](https://github.com/jeffknupp/sandman) - Automated REST APIs for existing database-driven systems.
     * [restless](http://restless.readthedocs.org/en/latest/) - Framework agnostic REST framework based on lessons learned from Tastypie.
     * [ripozo](https://github.com/vertical-knowledge/ripozo) - Quickly creating REST/HATEOAS/Hypermedia APIs.
