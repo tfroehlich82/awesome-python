@@ -663,6 +663,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [pyquery](https://github.com/gawel/pyquery) - A jQuery-like library for parsing HTML.
 * [untangle](https://github.com/stchris/untangle) - Converts XML documents to Python objects for easy access.
 * [xhtml2pdf](https://github.com/xhtml2pdf/xhtml2pdf) - HTML/CSS to PDF converter.
+* [xmldataset](https://xmldataset.readthedocs.io) - Simple XML Parsing.
 * [xmltodict](https://github.com/martinblech/xmltodict) - Working with XML feel like you are working with JSON.
 
 ## Web Crawling
@@ -1240,7 +1241,7 @@ Where to discover new Python libraries.
 List of lists.
 
 * Python
-    * [pycrumbs](https://github.com/kirang89/pycrumbs/blob/master/pycrumbs.md)
+    * [pycrumbs](https://github.com/kirang89/pycrumbs)
     * [python-github-projects](https://github.com/checkcheckzz/python-github-projects)
     * [python_reference](https://github.com/rasbt/python_reference)
     * [pythonidae](https://github.com/svaksha/pythonidae)
